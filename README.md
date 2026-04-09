@@ -56,6 +56,15 @@ Capacity = Daily Load / (Bus Voltage × DOD)
 Monthly Yield = Panels × Panel kW × PSH × Days × PR
 Simulated for all 12 months. Annual yield: ~6,500 kWh.
 
+## Outputs
+
+### Monthly Yield vs Demand Chart (MATLAB)
+![Monthly Yield Chart](plot.png)
+
+### Gujarat Solar Data
+![Solar Data](Gj1.png)
+
+
 ## Key Results
 
 - **Annual Solar Yield:** ~6,500 kWh
