@@ -61,9 +61,6 @@ Simulated for all 12 months. Annual yield: ~6,500 kWh.
 ### Monthly Yield vs Demand Chart (MATLAB)
 ![Monthly Yield Chart](plot.png)
 
-### Annual Report
-![Annual Report](Data 3.png)
-
 ### Gujarat Solar Data
 ![Solar Data](Gj2.png)
 
